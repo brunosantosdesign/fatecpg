@@ -1,6 +1,6 @@
 # 🚀 Fatec Praia Grande - Projetos Acadêmicos
 
-![Banner](https://via.placeholder.com/800x200?text=Fatec+Praia+Grande+Projetos+Acad%C3%AAmicos) <!-- Coloque aqui a URL de um banner ou crie uma imagem personalizada -->
+<!-- Coloque aqui a URL de um banner ou crie uma imagem personalizada -->
 
 **Bem-vindo ao repositório de projetos desenvolvidos durante o curso de Desenvolvimento de Software Multiplataforma na Fatec de Praia Grande.**  
 Este repositório contém os trabalhos acadêmicos realizados ao longo dos semestres, abordando diferentes disciplinas e tecnologias. Cada projeto possui uma descrição detalhada e instruções para execução.
